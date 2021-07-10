@@ -1,0 +1,7 @@
+USE [NCAAFB Data Set];
+
+SELECT Team
+
+FROM 2019
+
+ORDER BY TEAM;
